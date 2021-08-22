@@ -1,0 +1,7 @@
+### Set type Folder to node
+POST http://laravel2022.test/api/article/create
+content-type: application/json
+
+{
+    "name": "some name"
+}
